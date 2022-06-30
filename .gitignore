@@ -1,0 +1,4 @@
+/target/
+/log4j/Application.log
+/.idea/
+/log4j/*
